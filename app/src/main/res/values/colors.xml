@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="homePageColor">#03A9F4</color>
+    <color name="pageAColor">#FF9800</color>
+    <color name="pageBColor">#131313</color>
+    <color name="pageXColor">#8E8B8B</color>
+    <color name="pageYColor">#FFC107</color>
+</resources>
